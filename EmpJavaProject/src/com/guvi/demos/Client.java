@@ -12,6 +12,10 @@ public class Client {
 		System.out.println("line7");
 		System.out.println("line8");
 		System.out.println("line9");
+		System.out.println("line10");
+		System.out.println("line11");
+		System.out.println("line12");
+		
 
 	}
 
